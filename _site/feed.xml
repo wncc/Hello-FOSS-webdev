@@ -3,13 +3,13 @@
   <channel>
     <title>&lt;font color = '#ff0090'&gt;Hello-FOSS &lt;/font&gt;</title>
     <description>Official Website of the &lt;font color = '#ff0090'&gt;Hello-FOSS &lt;/font&gt;festival  
-organised by [WnCC, IITB](https://www.wncc-iitb.org/) 
+organised by [WnCC, IITB](https://www.wncc-iitb.org/) and [DevCom, IITB](https://devcom-iitb.org/)
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Oct 2020 19:31:06 +0530</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2020 19:31:06 +0530</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+    <pubDate>Tue, 13 Oct 2020 21:27:01 +0530</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2020 21:27:01 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
     
   </channel>
 </rss>

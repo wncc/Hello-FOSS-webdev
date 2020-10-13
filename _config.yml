@@ -5,12 +5,12 @@
 title: <font color = '#ff0090'>Hello-FOSS </font>
 description: |
   Official Website of the <font color = '#ff0090'>Hello-FOSS </font>festival  
-  organised by [WnCC, IITB](https://www.wncc-iitb.org/) 
+  organised by [WnCC, IITB](https://www.wncc-iitb.org/) and [DevCom, IITB](https://devcom-iitb.org/)
 owner: WnCC, IIT Bombay # or company name
 first_published: 2020 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://hellofoss.wncc-iitb.org" # the base hostname & protocol for your site
 social:
   #twitter: https://twitter.com/<username>
   github: https://github.com/wncc
