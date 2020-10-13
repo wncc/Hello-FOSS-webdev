@@ -411,21 +411,21 @@ input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hove
 
 input[type="submit"]:active, input[type="reset"]:active, input[type="button"]:active, button:active, .button:active { background-color: rgba(144, 144, 144, 0.5); }
 
-input.icon[type="submit"]:before, input.icon[type="reset"]:before, input.icon[type="button"]:before, button.icon:before, .button.icon:before { margin-right: 0.5em; }
+input[type="submit"].icon:before, input[type="reset"].icon:before, input[type="button"].icon:before, button.icon:before, .button.icon:before { margin-right: 0.5em; }
 
-input.fit[type="submit"], input.fit[type="reset"], input.fit[type="button"], button.fit, .button.fit { display: block; margin: 0 0 1em 0; width: 100%; }
+input[type="submit"].fit, input[type="reset"].fit, input[type="button"].fit, button.fit, .button.fit { display: block; margin: 0 0 1em 0; width: 100%; }
 
-input.small[type="submit"], input.small[type="reset"], input.small[type="button"], button.small, .button.small { font-size: 0.8em; }
+input[type="submit"].small, input[type="reset"].small, input[type="button"].small, button.small, .button.small { font-size: 0.8em; }
 
-input.big[type="submit"], input.big[type="reset"], input.big[type="button"], button.big, .button.big { font-size: 1.35em; }
+input[type="submit"].big, input[type="reset"].big, input[type="button"].big, button.big, .button.big { font-size: 1.35em; }
 
-input.special[type="submit"], input.special[type="reset"], input.special[type="button"], button.special, .button.special { background-color: #63c5da; box-shadow: none !important; color: #ffffff !important; }
+input[type="submit"].special, input[type="reset"].special, input[type="button"].special, button.special, .button.special { background-color: #63c5da; box-shadow: none !important; color: #ffffff !important; }
 
-input.special[type="submit"]:hover, input.special[type="reset"]:hover, input.special[type="button"]:hover, button.special:hover, .button.special:hover { background-color: #78cddf !important; }
+input[type="submit"].special:hover, input[type="reset"].special:hover, input[type="button"].special:hover, button.special:hover, .button.special:hover { background-color: #78cddf !important; }
 
-input.special[type="submit"]:active, input.special[type="reset"]:active, input.special[type="button"]:active, button.special:active, .button.special:active { background-color: #4ebdd5 !important; }
+input[type="submit"].special:active, input[type="reset"].special:active, input[type="button"].special:active, button.special:active, .button.special:active { background-color: #4ebdd5 !important; }
 
-input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[type="reset"], input[type="reset"]:disabled, input.disabled[type="button"], input[type="button"]:disabled, button.disabled, button:disabled, .button.disabled, .button:disabled { -moz-pointer-events: none; -webkit-pointer-events: none; -ms-pointer-events: none; pointer-events: none; opacity: 0.25; }
+input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"].disabled, input[type="reset"]:disabled, input[type="button"].disabled, input[type="button"]:disabled, button.disabled, button:disabled, .button.disabled, .button:disabled { -moz-pointer-events: none; -webkit-pointer-events: none; -ms-pointer-events: none; pointer-events: none; opacity: 0.25; }
 
 @media screen and (max-width: 736px) { input[type="submit"], input[type="reset"], input[type="button"], button, .button { height: 3.75em; line-height: 3.75em; } }
 

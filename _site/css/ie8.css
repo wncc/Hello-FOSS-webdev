@@ -12,7 +12,7 @@ input[type="text"], input[type="password"], input[type="email"], select, textare
 /* Button */
 input[type="submit"], input[type="reset"], input[type="button"], button, .button { border: solid 2px #dfdfdf; }
 
-input.special[type="submit"], input.special[type="reset"], input.special[type="button"], button.special, .button.special { border: 0 !important; }
+input[type="submit"].special, input[type="reset"].special, input[type="button"].special, button.special, .button.special { border: 0 !important; }
 
 /* Page Wrapper + Menu */
 #menu { display: none; }
