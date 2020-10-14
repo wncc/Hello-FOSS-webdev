@@ -1,6 +1,4 @@
-# Hello-FOSS-webdev
-
-This is the official website for WnCC's Hello-FOSS festival. 
+# Hello-FOSS-webdev 
 
 Hello There!   
 
@@ -10,7 +8,16 @@ There's this initiative called [Hacktoberfest](https://hacktoberfest.digitalocea
 Open Source can be daunting at first, How would I get started? Will they accept me? Will ..anyone accept me?    
 Relax! If you're clueless, watch this recent introductory session by us - [Panel Discussion with GSoCers](https://youtu.be/UtmGnnutXeo)
 
+### The Website
 
+This is the repository for the official website of WnCC's Hello-FOSS festival. The website itself is hosted [here](https://hellofoss.wncc-iitb.org/index.html). The website is open source and we welcome contributions from all. You can contribute to this website in the following ways:
+
+- Write a blog to add to our ["Community Blogs"](https://hellofoss.wncc-iitb.org/blogs.html). The main purpose of Open Source is to grow by learning from others' experiences and mistakes rather than starting from scratch. Use this "Community Blog" to learn from others and also help others grow. Best suggestion for one's first blog is the errors he/she faced while installing Jekyll, cause most of us face similar installation issues.
+- Add a Contributors section which can be a new tab in the menu. This section can contain cards of all the contributors and brief details to the contributions made by them under Hello-FOSS. After making a contribution to any project under Hello FOSS, don't forget to update it here too
+- Bug fixes of any kind, improvements, suggestions all are welcome.
+- Design a favicon icon for  Hello-FOSS, first of its kind festival celebrating open source.
+
+Follow the guidelines given [here](https://github.com/wncc/Hello-FOSS) for all your contributions!
 
 Join our [Telegram group](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ) for discussing your doubts.
 
